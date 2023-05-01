@@ -1,9 +1,0 @@
-{
-    "version": 4,
-    "vendor": {
-        "conan": {}
-    },
-    "include": [
-        "C:\\project\\c++\\examples2\\tutorial\\consuming_packages\\simple_cmake_project\\build\\CMakePresets.json"
-    ]
-}
