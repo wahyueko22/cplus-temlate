@@ -1,6 +1,0 @@
-# editor
-.cache/
-compile_commands.json
-
-# builds
-build/

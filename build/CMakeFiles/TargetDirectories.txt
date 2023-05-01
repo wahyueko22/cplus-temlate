@@ -1,0 +1,3 @@
+C:/project/c++/examples2/tutorial/consuming_packages/simple_cmake_project/build/CMakeFiles/compressor.dir
+C:/project/c++/examples2/tutorial/consuming_packages/simple_cmake_project/build/CMakeFiles/ALL_BUILD.dir
+C:/project/c++/examples2/tutorial/consuming_packages/simple_cmake_project/build/CMakeFiles/ZERO_CHECK.dir
